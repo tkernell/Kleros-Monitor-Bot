@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+#take this out
 import json
 import web3
 from time import sleep
